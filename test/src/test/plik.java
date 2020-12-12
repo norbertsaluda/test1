@@ -12,6 +12,7 @@ public class plik {
      b++;
      System.out.println(b);
      System.out.println("nowa linijka");
+     System.out.println("cos nowego");
         
 
 	}
